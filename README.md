@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishyfortheworld
 - 👀 I’m interested in everything Apple, Swift, Vapor, and JavaScript.
-- 🌱 I’m currently learning Swift.
-- 💞️ I’m looking to collaborate on building some subtle and minimalist apps.
+- 🌱 I’m currently improving on Swift and contributing to open-source projects.
+- 💞️ I’m also looking to collaborate on building some subtle and minimalist apps.
 - 📫 You can reach me on my twitter handle - @VishrutVatsa, or my email-ID vishrut.official@gmail.com
 
 <!---
