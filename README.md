@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vishyfortheworld
-- 👀 I’m interested in everything Apple, Swift, Firebase, Vapor, and JavaScript.
-- 🌱 I’m currently improving on Swift and contributing to open-source projects.
+- 👀 I’m interested in everything JS, Swift, Flutter, Firebase, Vapor, and JavaScript.
 - 📫 You can reach me on my twitter handle - @VishrutVatsa, or my email-ID vishrut.official@gmail.com
 
 <!---
